@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<children>
+    <child>
+        <name>Vasya</name>
+        <bdate>2002-12-2</bdate>
+        <ocode>1</ocode>
+        <kcode>1</kcode>
+    </child>
+    <child>
+        <name>Petya</name>
+        <bdate>2002-10-21</bdate>
+        <ocode>2</ocode>
+        <kcode>1</kcode>
+    </child>
+    <child>
+        <name>Vanya</name>
+        <bdate>2001-12-2</bdate>
+        <ocode>1</ocode>
+        <kcode>1</kcode>
+    </child>
+    <child>
+        <name>Vanya</name>
+        <bdate>2001-12-2</bdate>
+        <ocode>2</ocode>
+        <kcode>3</kcode>
+    </child>
+</children>
