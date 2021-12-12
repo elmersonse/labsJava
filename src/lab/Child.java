@@ -1,9 +1,11 @@
 package lab;
 
+import java.io.Serializable;
 import java.sql.Date;
 import java.util.Objects;
 
-public class Child extends ChildCollection implements Interface{
+
+public class Child extends ChildCollection implements Interface, Serializable {
     static public int count=0;
     private int code;
     private String name;
